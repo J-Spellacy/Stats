@@ -1,0 +1,8 @@
+"order_id","customer_name","email","phone","product_category","order_date","revenue","discount"
+101,"John Doe","john@email.com","9876543210","Electronics","2023-12-31",1200,10
+105,"David White","david@email.com","9123456789","Furniture","2024-02-15",2500,15
+106,"Emma Brown","emma@email.com","9234567890","Clothing","2024-08-03",700,5
+107,"Chris Green","no_email@email.com","9345678901","Furniture","2024-04-10",1800,25
+103,"Bob Miller","bob@email.com","0000000000","Electronics","2024-12-01",3000,20
+102,"Alice Smith","alice@email.com","0000000000","Clothing","2024-01-05",500,7
+108,"Alice Smith","alice@email.com","0000000000","Clothing","2024-03-08",500,7
